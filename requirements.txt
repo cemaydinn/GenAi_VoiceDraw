@@ -1,5 +1,5 @@
 streamlit
-pip install -U pyaudio
+pyaudio==0.2.14
 wave
 openai
 google.generativeai
