@@ -1,5 +1,5 @@
 streamlit
-pyaudio
+pip install -U pyaudio
 wave
 openai
 google.generativeai
